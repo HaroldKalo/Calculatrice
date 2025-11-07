@@ -1,13 +1,13 @@
 #ifndef CALCULATRICE_H
 #define CALCULATRICE_H
 
-#include <QMainWindow>
+#include <QWidget>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Calculatrice; }
 QT_END_NAMESPACE
-
-class Calculatrice : public QMainWindow
+aaaa
+class Calculatrice : public QWidget
 {
     Q_OBJECT
 
