@@ -15,6 +15,13 @@ public:
     Calculatrice(QWidget *parent = nullptr);
     ~Calculatrice();
 
+private slots:
+    void onQPushButtonClicked();
+
+    void on_pushButtonEgal_2_clicked();
+
+    void on_pushButtonEffacer_2_clicked();
+
 private:
     Ui::Calculatrice *ui;
 };
