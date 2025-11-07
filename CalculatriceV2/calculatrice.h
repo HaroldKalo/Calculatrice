@@ -1,6 +1,6 @@
 #ifndef CALCULATRICE_H
 #define CALCULATRICE_H
-qqqq
+
 #include <QWidget>
 
 QT_BEGIN_NAMESPACE
